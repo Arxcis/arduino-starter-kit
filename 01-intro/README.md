@@ -1,6 +1,6 @@
 [<- back](../)
 
-## 01-intro
+## 01 Intro
 
 <figure>
     <img src="./demo.png" width=600 alt="demo" title="Demo">
