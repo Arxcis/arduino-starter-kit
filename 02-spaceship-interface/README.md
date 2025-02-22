@@ -1,4 +1,4 @@
-[<- back](..//README.md)
+[<- back](../)
 
 ## 02-spaceship-interface
 
